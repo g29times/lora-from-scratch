@@ -1,0 +1,7 @@
+aclImdb/
+aclImdb*
+data/
+.lightning_studio/
+__pycache__/
+.vscode/
+.idea/
